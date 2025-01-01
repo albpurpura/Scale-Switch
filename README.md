@@ -1,4 +1,3 @@
-# Scale-Switch
 # Scale Switch
 
 ## Overview
